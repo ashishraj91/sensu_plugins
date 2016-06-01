@@ -1,4 +1,4 @@
-#! /usr/bin/env ruby
+#! /opt/sensu/embedded/bin/ruby
 #
 #  encoding: UTF-8
 #   check-ports
